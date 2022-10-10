@@ -1,0 +1,165 @@
+Web Development (UI Technologies)
+
+Savitha Ramesh 
+Front end + Back end (Fullstack developer)
+
+HTML , CSS , Responsive framework is Bootstrap, Javascript 
+
+what is front-end?
+    user interface(user interaction)
+
+what is back-end?
+     server side development mainly deals with database ,scripts and architecture
+
+what is full-stack?
+     combination of front end and back end
+
+Webpage using HTML+CSS
+Webpage using HTML+CSS+JAVASCRIPT
+Webpage using HTML+CSS+JAVASCRIPT+BOOTSTRAP
+
+
+Course duration : 40-45 days 
+class: Mon- Fri
+Timings : 9-10 pm 
+
+Advantages with Ashok IT
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+=> Live Online Training
+=> Soft Copy Material
+=> doubts clarification
+=> backup videos + 6 months access
+=> telegram group for communication
+=> placement assistance
+=> resume preparation 
+
+=================================================================================
+
+HTML -> Hyper text Mark up Language => develop static web pages 
+
+ HTML was created by Tim Berners-Lee in late 1991
+ it gained specification in 1995 "HTML 2.0"
+
+ "HTML 4.01" late 1999
+
+ why to learn HTML ?
+  
+   => great software engineer(Web Development) HTML is must 
+
+ Advantages of HTML?
+
+  => Create a website
+  => become a web designer
+  => master other front-end technologies like javascript,angular,react js, etc
+
+ IDE => Microsoft Visual Studio Code developed by microsoft .its open source
+
+  Offline Editors
+  Online Editors
+  IDE(Integrated Development Environment)
+
+https://code.visualstudio.com/docs/?dv=win64user
+
+  It can be saved with ".html" or ".htm" extension
+
+ how can we execute HTML?
+
+  with the help of browsers : Google Chrome,IE ,Edge,Mozilla ,Opera
+
+  Plugins in Visual Studio code 
+     => Live server extension => run your code
+     => Lorem ipsum extension  => genrate dummy text
+
+ After installing visual studio code 
+ => Create a folder
+ => go to command prompt
+ => code .
+
+ we will apply styles to the web page using CSS(Cascading Style Sheets)
+
+  Ex:
+     color
+     background-color
+     margins
+     paddings
+  
+  we will build web pages using the help of tags
+   <tagName></tagName>
+
+  current version of HTML is HTML5.x
+
+  HTML5.x supports the API's ,it has become popular in web development 
+
+======================================================================================
+
+  Structure of the webpage 
+    <!-- --> => format to write comments
+
+    root section 
+    version of HTML => technically called as DOCTYPE <!DOCTYPE>
+      => head section => metadata => data about webpage (data)
+      => body section => content of the web page
+
+    Meta is self closing tag 
+	Headings
+	 <!-- Html supports 6 headings
+	 
+	          <h1></h1>         Main Heading
+		  <h2></h2>         Sub Heading
+		  <h3></h3>         Sub Heading
+		  <h4></h4>         Sub Heading
+		  <h5></h5>         Sub Heading
+		  <h6></h6>         Sub Heading
+
+   HTML Elements and Attributes 
+
+  Attributes => provide additional information about HTML elements
+
+   <meta name="description" content="Training classes@AshokIT">
+    name => information about webpage description
+
+  <meta name="author" content="AshokIT">
+    name => information about author
+
+====================================================================
+ 
+ 1) Open Editor/Notepad
+ 2) Apply Formatting
+ 3) Create one HTML and add paragraph and line breaks(<br/>)
+ 4) Create Some text and add bold and italic 
+==================================================================
+
+  Tags into Categories
+
+ => Working with Text Related Tags
+ => Working with Images
+ => Working with Links
+ => Working with Tables
+ => Working with frames,iframe,frameset,div and span
+ => Working with forms
+ => HTML5 New tags(Semantic Tags)
+
+   Work with text related tags
+   1.Heading Tags : h1,h2,h3,h4,h5,h6
+   2. Font related tags : font,b,i,s,u,small,big
+   3. List Tags : ordered list => ol,li unordered list => ul,li , data definition list => dl,dt,dd
+   4. Other Tags : span,input,form,header,footer,strong,pre 
+   
+   
+
+
+
+   
+
+  
+
+  
+
+
+
+
+
+
+
+
+

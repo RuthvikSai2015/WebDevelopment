@@ -140,10 +140,31 @@ https://code.visualstudio.com/docs/?dv=win64user
  => HTML5 New tags(Semantic Tags)
 
    Work with text related tags
-   1.Heading Tags : h1,h2,h3,h4,h5,h6
-   2. Font related tags : font,b,i,s,u,small,big
-   3. List Tags : ordered list => ol,li unordered list => ul,li , data definition list => dl,dt,dd
-   4. Other Tags : span,input,form,header,footer,strong,pre 
+	   1.Heading Tags : h1,h2,h3,h4,h5,h6
+	   2. Font related tags : font,b,i,s,u,small,big,em
+	   3. List Tags : ordered list => ol,li unordered list => ul,li ,
+         	   data definition list => dl,dt,dd
+	   4. Other Tags : span,input,form,header,footer,strong,pre 
+	   
+	   Semantic Tags in HTML5
+	   
+	   Screen Reader => header , footer , 
+	   
+=====================================================================
+    Working with Images 
+	
+	<img > => self  closing tag
+	
+	syntax:
+	 <img 
+	 5 attributes src ,alt , title, height ,width 
+	 
+========================================================================
+
+   Working with Links
+   <a href=""> This is Anchor tag </a>
+   
+   
    
    
 

@@ -164,6 +164,16 @@ https://code.visualstudio.com/docs/?dv=win64user
    Working with Links
    <a href=""> This is Anchor tag </a>
    
+====================================================================
+   Working with tables 
+   
+   1.<table>
+   2.<caption>
+   3.<thead>
+   4.<tr>
+   5.<th>
+   6.<tbody>
+   7.<td>
    
    
    

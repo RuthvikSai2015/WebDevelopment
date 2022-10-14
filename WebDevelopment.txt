@@ -167,13 +167,31 @@ https://code.visualstudio.com/docs/?dv=win64user
 ====================================================================
    Working with tables 
    
-   1.<table>
+   1.<table> 
    2.<caption>
    3.<thead>
    4.<tr>
    5.<th>
    6.<tbody>
    7.<td>
+   
+   Task : Create a Profile Page Add Image ,basic details , provide that link in the table
+
+=============================================================================================
+    Frame => are used to divide the browser window into multiple sections
+             treat as a seperate document
+
+    framset => collection of frames in the browser 	
+
+     <iframe src="branches.html"></iframe>
+     <iframe src="courses.html"></iframe>
+     <iframe src="headings.html"></iframe>	
+	 
+================================================================
+          form => container for grouping of elements
+		  
+		  input tags , buttons , select box, textarea
+
    
    
    

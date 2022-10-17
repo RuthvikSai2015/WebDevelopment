@@ -191,6 +191,47 @@ https://code.visualstudio.com/docs/?dv=win64user
           form => container for grouping of elements
 		  
 		  input tags , buttons , select box, textarea
+		  
+		    id => unique identifier to the browser
+		    name => unique to server data
+		   
+		  syntax:
+		  1. form 
+		  2. label
+		  3. input 
+		  
+		   <form name="NameOfForm" id="uniqueId" action="AddressOfServer" method="Get/Post">
+		   
+		   Get => limited data =>insecure 
+		   Post => unlimited data => secure 
+		   
+		   <label> Label Content </label>
+		   
+		   <input type="text"> Text Field
+		   <input type="number"> Number field
+		   
+	==========================================================================
+	
+	 div is a block level element 
+	 span is an inline element 
+	 
+	 div is a pair tag
+	 used to group elements and to create sections
+	 used to create layouts for web pages 
+	 
+	 Tag                   Description
+	 =================================================
+     <article>              Defines an article in a document
+	 <figure>               Defines self-contained content and figure caption
+	 <footer>               Defines a footer for a document
+	 <header>               Defines a header for a document
+	 <main>                 Defines a main content of a document
+	 <mark>                 Defines marked/highlighted text
+	 <nav>                  Defines navigation links
+	 <section>              Defines a section in a document
+	 <summary>              Defines a visible heading
+	 
+		 
 
    
    

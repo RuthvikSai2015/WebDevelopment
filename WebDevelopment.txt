@@ -231,6 +231,64 @@ https://code.visualstudio.com/docs/?dv=win64user
 	 <section>              Defines a section in a document
 	 <summary>              Defines a visible heading
 	 
+======================================================================================
+
+    CSS => Cascading Style Sheets => to apply the styles to web pages 
+	
+	what are the ways of declaring CSS
+	
+	style="property1:value;property2:value;.........propertyn:value"
+	
+	1. Inline    style="background-color:blue"         1st Precedence 
+	2. Internal  <style></style> => head section       2nd Precedence
+	3. External  one seperate css file => embed the css file in my html doc 3rd Precedence
+	
+	When we want to change the precedence we go for important attribute
+	
+	text-align
+	color
+	background-color
+	font-size
+	font-family
+	
+	     font-weight : bold , bolder
+		 border:  size type color => type - dashed , dotted, solid
+		 border-radius : left top right bottom;
+		 padding: left top right bottom;
+		 
+    .html => html files
+	.css => cascading style sheets
+	.js => javascript files 
+	
+	Types of selectors in CSS 
+	1. Element Selector (Tag) => add style to HTML Elements
+	   syntax: htmlelement1{
+	                    property1:value,
+						property2:value 
+					   }
+	2. Id Selector=> we use user defined ids( id="id1" )
+	    syntax:
+		        #id1{
+				      property1:value;
+					  property2:value;
+					}
+		ids are unique ,only one element can contain one id
+		classes , more than one element can contain one class
+	3.Class Selector => we have user defined classes
+	   syntax:
+	           .className{
+			               property1:value;
+						   property2:value;
+						  }
+	4.Universal selector
+	       HTML => Body => all elements 
+	   syntax:
+	           *{
+			      property1:value;
+				  property2:value
+				}
+		
+         	 
 		 
 
    

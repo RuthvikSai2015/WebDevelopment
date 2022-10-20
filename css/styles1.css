@@ -9,9 +9,15 @@
 /* #firstH1,#secondH1 {
     background-color: red;
 } */
-/* .h1-class{
+.h1-class{
      background-color: red; 
-} */
+}
+.h1-firstclass{
+    background-color: blue; 
+}
+p.center{
+    background-color: orange;
+}
 /* #lastH1 {
     background-color: yellow;
 } */

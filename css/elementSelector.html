@@ -4,13 +4,29 @@
 <head>
     <title>Selectors</title>
     <link rel="stylesheet" href="styles1.css">
+    <style>
+        a:link{
+            color:red;/*univisited link*/
+        }
+        a:hover{
+            color:green;
+        }
+        a:visited{
+            color:brown;/*link is clicked*/
+        }
+        a:active{
+            color:blue;
+        }
+    </style>
 </head>
 
 <body>
-    <h1 id="firstH1" class="h1-class">Welcome to CSS</h1>
-    <h1 id="secondH1" class="h1-class">Welcome to HTML</h1>
+    <a href="https://www.w3schools.com" target="_blank">Ashok IT</a>
+    <h1 id="firstH1" class="h1-class h1-firstclass">Welcome to CSS</h1>
+    <h1 id="secondH1" class="h1-class h1-firstclass">Welcome to HTML</h1>
     <h1 id="lastH1"  class="h1-class">Welcome to Web Development</h1>
     <p class="center" >Description about Course</p>
+    <p class="center1" >Description about Course</p>
     <img src="nature1.jpg" />
 </body>
 

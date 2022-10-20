@@ -287,6 +287,12 @@ https://code.visualstudio.com/docs/?dv=win64user
 			      property1:value;
 				  property2:value
 				}
+				
+	 float => div and span 
+	 
+	 Pseudo classes in CSS
+	 
+	 
 		
          	 
 		 

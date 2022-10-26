@@ -298,6 +298,8 @@ https://code.visualstudio.com/docs/?dv=win64user
 	 
 	 Display property in CSS
 	 
+	 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+	 
 	 
 	 
 	 

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSS Background property</title>
+    </head>
+    <style>
+        /* body{
+            background: url("https://images-eu.ssl-images-amazon.com/images/G/31/img22/SEP/COOP/2.jpg");
+        } */
+        .parent{
+            position: relative;
+            top:0;
+            height:200vh;
+            background-color: cyan;
+            padding:10px;
+        }
+        .child-one{
+            position:sticky;
+            background: green;
+             top:10px; 
+        }
+        .child-two{
+            background: red;
+        }
+        .child-three{
+            background-color: pink;
+        }
+    </style>
+    <body>
+        <!-- <h1>Welcome to CSS</h1> -->
+       <div class="parent">
+          Parent
+          <div class="child-one child">One</div>
+          <div class="child-two child">Two</div>
+          <div class="child-three child">Three</div>
+       </div>
+    </body>
+</html>

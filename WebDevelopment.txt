@@ -292,6 +292,14 @@ https://code.visualstudio.com/docs/?dv=win64user
 	 
 	 Pseudo classes in CSS
 	 
+	 CSS Short Hand Property :- Background
+	 =====================================================================
+	 Position property in CSS
+	 
+	 Display property in CSS
+	 
+	 
+	 
 	 
 		
          	 

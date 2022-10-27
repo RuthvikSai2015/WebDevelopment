@@ -300,6 +300,32 @@ https://code.visualstudio.com/docs/?dv=win64user
 	 
 	 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 	 
+	 ============================================================================
+	 Bootstrap, the worlds most popular framework 
+	 for building responsive sites (web pages, mobile-first sites)
+	 
+	 Bootstrap 
+	 => it writes internal CSS
+	 => Browser goes to that page and carry entire CSS into cache memory 
+	 => By default ,it will apply some styles to components
+	 => Provides built in componnets which are responsive 
+	 => comprises HTML,jquery , CSS , Fonts 
+	 
+	 
+	 Install Bootstrap 
+	 https://getbootstrap.com/docs/5.0/getting-started/introduction/
+	 
+	 1) We can install bootstrap locally and use the css reference in page
+	 <link >
+	 2) using CDN (Content Delivery Network)
+	 
+	 A Content Delivery Network is a system of distributed servers
+	 that deliver pages and other content to a user based on the geograhic location of the user
+	 
+	 d-lg-none => display the elements coming under this class as none in large devices
+	 xs => extra small 
+	 
+	 
 	 
 	 
 	 
